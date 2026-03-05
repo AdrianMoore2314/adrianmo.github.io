@@ -40,13 +40,23 @@ My long-term goal is to build <strong>reliable and scalable AI systems capable o
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/截屏2026-03-02 16.22.33.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/截屏2026-03-02 16.32.40.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ShieldedCode: Learning Robust Representations for Virtual Machine Protected Code]([https://openreview.net/pdf?id=9F9UFVcDkV])
+[CTR-LoRA: Curvature-Aware and Trust-Region Guided Low-Rank Adaptation for Large Language Models]([https://arxiv.org/pdf/2510.15962])
 
-**Mingqiao Mo**, Yunlong Tan,  Hao Zhang, Heng Zhang, Yangfan He
-- ShieldedCode introduces a protection-aware learning framework that models hierarchical dependencies and contrastive objectives to generate and analyze VMP-protected code.
+Zhuxuanzi Wang<sup>&ast;</sup>, **Mingqiao Mo**<sup>&ast;</sup>, Xi Xiao, Chen Liu, Chenrui Ma, Yunbei Zhang, Xiao Wang, Smita Krishnaswamy, Tianyang Wang
+- CTR-LoRA uses curvature-aware rank allocation and a trust-region constraint to make LoRA fine-tuning more accurate and stable with less memory.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2026</div><img src='images/截屏2026-03-02 16.33.40.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Self-Supervised Visual Prompting for Cross-Domain Road Damage Detection]([https://openaccess.thecvf.com/content/WACV2026/papers/Xiao_Self-Supervised_Visual_Prompting_for_Cross-Domain_Road_Damage_Detection_WACV_2026_paper.pdf])
+
+Xi Xiao<sup>&ast;</sup>, Zhuxuanzi Wang<sup>&ast;</sup>, **Mingqiao Mo**<sup>&ast;</sup>, Chen Liu, Chenrui Ma, Yanshu Li, Smita Krishnaswamy, Xiao Wang, Tianyang Wang
+- CTR-LoRA uses curvature-aware rank allocation and a trust-region constraint to make LoRA fine-tuning more accurate and stable with less memory.
 </div>
 </div>
 
@@ -108,9 +118,9 @@ My long-term goal is to build <strong>reliable and scalable AI systems capable o
 </div>
 
 # 💼 Academic Services
--Reviewer, IJCNN 2024, IJCNN 2025, IJCNN2026
--Reviewer, AAAI 2026
--Reviewer, CVPR 2026
--Reviewer, ICME 2026
--Reviewer, ICLR 2026 Workshop RSI 
--Reviewer, UAI 2026
+- Reviewer, IJCNN 2024, IJCNN 2025, IJCNN 2026
+- Reviewer, AAAI 2026
+- Reviewer, CVPR 2026
+- Reviewer, ICME 2026
+- Reviewer, ICLR 2026 Workshop RSI 
+- Reviewer, UAI 2026
