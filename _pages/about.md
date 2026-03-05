@@ -72,7 +72,16 @@ My long-term goal is to build <strong>reliable and scalable AI systems capable o
     Worked with Dr. Xiaobo Wang on large-scale climate models (e.g., ORBIT-2), focusing on efficient post-training and large-scale distributed training.
   </div>
 </div>
-
+<div class="exp-item">
+  <img class="exp-logo" src="images/THU.webp" alt="THU logo" style="width:90px; height:90px; object-fit:contain;">
+  <div class="exp-body">
+    <div class="exp-title">Tsinghua University (THU) — Embedded Software Engineer </div>
+    <div class="exp-meta">Sep 2023 – 2024 · China</div>
+    <div class="exp-desc">
+      Advised by Prof. Zhenhua Jin, working on efficient adaptation of large models.
+    </div>
+  </div>
+</div>
 <div class="exp-item">
   <img class="exp-logo" src="images/THU.webp" alt="THU logo">
   <div class="exp-body">
