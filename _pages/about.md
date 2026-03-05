@@ -53,13 +53,29 @@ My long-term goal is to build <strong>reliable and scalable AI systems capable o
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<div class="exp-item">
+  <img class="exp-logo" src="/assets/img/ornl.png" alt="ORNL logo">
+  <div class="exp-body">
+    <div class="exp-title">Oak Ridge National Laboratory (ORNL) — Research Intern</div>
+    <div class="exp-meta">May 2025 – Present · USA</div>
+    <div class="exp-desc">
+      Worked with Dr. Xiaobo Wang on large-scale climate models (e.g., ORBIT-2), focusing on efficient post-training and large-scale distributed training.
+    </div>
+  </div>
+</div>
+
+<div class="exp-item">
+  <img class="exp-logo" src="/assets/img/uab.png" alt="UAB logo">
+  <div class="exp-body">
+    <div class="exp-title">Tsinghua University (THU) — Embedded Software Engineer </div>
+    <div class="exp-meta">Sep 2023 – 2024 · China</div>
+    <div class="exp-desc">
+      Advised by Prof. Zhenhua Jin, working on efficient adaptation of large models.
+    </div>
+  </div>
+</div>
