@@ -25,8 +25,6 @@ My long-term goal is to build <strong>reliable and scalable AI systems capable o
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
@@ -56,13 +54,16 @@ Zhuxuanzi Wang<sup>&ast;</sup>, **Mingqiao Mo**<sup>&ast;</sup>, Xi Xiao, Chen L
 [Self-Supervised Visual Prompting for Cross-Domain Road Damage Detection]([https://openaccess.thecvf.com/content/WACV2026/papers/Xiao_Self-Supervised_Visual_Prompting_for_Cross-Domain_Road_Damage_Detection_WACV_2026_paper.pdf])
 
 Xi Xiao<sup>&ast;</sup>, Zhuxuanzi Wang<sup>&ast;</sup>, **Mingqiao Mo**<sup>&ast;</sup>, Chen Liu, Chenrui Ma, Yanshu Li, Smita Krishnaswamy, Xiao Wang, Tianyang Wang
-- CTR-LoRA uses curvature-aware rank allocation and a trust-region constraint to make LoRA fine-tuning more accurate and stable with less memory.
+- PROBE is a self-supervised visual prompting method that distills defect-aware prompts from unlabeled target images and aligns prompt-conditioned features across domains for robust zero-shot road-damage detection.
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.01*: &nbsp;🎉🎉Provincial First Prize, Liaoning Undergraduate Innovation Challenge & Microsoft “Innovation Cup”
+- *2023.11*: &nbsp;🎉🎉 International Second Prize, International Youth Artificial Intelligence Competition
+- *2023.11*: &nbsp;💰💰 First-class Academic Scholarship.
+- *2023.08*: &nbsp;🎉🎉 National Second Prize, HuaShu Cup Mathematical Modeling Competition
+
 
 # 💻 Work Experiences
 <div class="exp-item" style="display:flex; align-items:flex-start; gap:22px; margin:22px 0 34px 0;">
