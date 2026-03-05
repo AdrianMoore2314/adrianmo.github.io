@@ -58,9 +58,10 @@ My long-term goal is to build <strong>reliable and scalable AI systems capable o
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-<div class="exp-item" style="display:flex; align-items:flex-start; gap:22px;">
+<div class="exp-item" style="display:flex; align-items:flex-start; gap:22px; margin:22px 0 34px 0;">
   <img class="exp-logo" src="images/Cornell.jpg" alt="cornell logo"
-       style="width:90px; height:90px; object-fit:contain; flex:0 0 90px; display:block;">
+       style="width:90px; height:90px; object-fit:contain; flex:0 0 90px; display:block;
+              background:#fff; padding:6px; border-radius:10px;">
   <div class="exp-body" style="flex:1;">
     <div class="exp-title">Cornell University — Research Intern</div>
     <div class="exp-meta">Sep 2024 – 2025 · USA</div>
@@ -69,9 +70,11 @@ My long-term goal is to build <strong>reliable and scalable AI systems capable o
     </div>
   </div>
 </div>
-<div class="exp-item" style="display:flex; align-items:flex-start; gap:22px;">
+
+<div class="exp-item" style="display:flex; align-items:flex-start; gap:22px; margin:22px 0 34px 0;">
   <img class="exp-logo" src="images/THU.webp" alt="THU logo"
-       style="width:90px; height:90px; object-fit:contain; flex:0 0 90px; display:block;">
+       style="width:90px; height:90px; object-fit:contain; flex:0 0 90px; display:block;
+              background:#fff; padding:6px; border-radius:10px;">
   <div class="exp-body" style="flex:1;">
     <div class="exp-title">Tsinghua University (THU) — Embedded Software Engineer</div>
     <div class="exp-meta">Sep 2023 – 2024 · China</div>
