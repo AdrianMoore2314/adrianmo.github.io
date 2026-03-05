@@ -58,14 +58,18 @@ My long-term goal is to build <strong>reliable and scalable AI systems capable o
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-<div class="exp-item">
-  <img class="exp-logo" src="images/Cornell.jpg" alt="cornell logo">
-  <div class="exp-body">
-    <div class="exp-title">Cornell University — Research Intern</div>
-    <div class="exp-meta">May 2024 – 2025 · USA</div>
-    <div class="exp-desc">
-      Worked with Dr. Xiaobo Wang on large-scale climate models (e.g., ORBIT-2), focusing on efficient post-training and large-scale distributed training.
+
+<div class="paper-box" style="display:flex; gap:22px; align-items:flex-start; margin:22px 0;">
+  <!-- Left: logo / image -->
+  <div class="paper-box-image" style="flex:0 0 90px;">
+    <div>
+      <img src="images/Cornell.jpg" alt="cornell logo"
+           style="width:90px; height:90px; object-fit:contain; display:block;">
     </div>
+  <div class="paper-box-text" markdown="1" style="flex:1;">
+    <strong>Cornell University — Research Intern</strong><br>
+    <span style="color:#666;">May 2024 – 2025 · USA</span><br><br>
+    Worked with Dr. Xiaobo Wang on large-scale climate models (e.g., ORBIT-2), focusing on efficient post-training and large-scale distributed training.
   </div>
 </div>
 
