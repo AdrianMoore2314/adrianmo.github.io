@@ -59,6 +59,32 @@ My long-term goal is to build <strong>reliable and scalable AI systems capable o
 
 # 💻 Internships
 <div class="exp-item" style="display:flex; align-items:flex-start; gap:22px; margin:22px 0 34px 0;">
+  <img class="exp-logo" src="images/ucas.webg" alt="ucas logo"
+       style="width:90px; height:90px; object-fit:contain; flex:0 0 90px; display:block;
+              background:#fff; padding:6px; border-radius:10px;">
+  <div class="exp-body" style="flex:1;">
+    <div class="exp-title">University of Chinese Academy of Sciences (UCAS) — Research Intern</div>
+    <div class="exp-meta">Sep 2025 – 2026 · China</div>
+    <div class="exp-desc">
+      Advised by Prof. Zhenhua Jin, working on efficient adaptation of large models.
+    </div>
+  </div>
+</div>
+
+<div class="exp-item" style="display:flex; align-items:flex-start; gap:22px; margin:22px 0 34px 0;">
+  <img class="exp-logo" src="images/ucla.png" alt="ucla logo"
+       style="width:90px; height:90px; object-fit:contain; flex:0 0 90px; display:block;
+              background:#fff; padding:6px; border-radius:10px;">
+  <div class="exp-body" style="flex:1;">
+    <div class="exp-title">University of California,Los Angeles(UCLA) — Research Intern</div>
+    <div class="exp-meta">Sep 2024 – 2025 · USA</div>
+    <div class="exp-desc">
+      Advised by Prof. Zhenhua Jin, working on efficient adaptation of large models.
+    </div>
+  </div>
+</div>
+
+<div class="exp-item" style="display:flex; align-items:flex-start; gap:22px; margin:22px 0 34px 0;">
   <img class="exp-logo" src="images/Cornell.png" alt="cornell logo"
        style="width:90px; height:90px; object-fit:contain; flex:0 0 90px; display:block;
               background:#fff; padding:6px; border-radius:10px;">
