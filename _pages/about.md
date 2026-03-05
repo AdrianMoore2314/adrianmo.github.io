@@ -30,20 +30,25 @@ My long-term goal is to build <strong>reliable and scalable AI systems capable o
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/截屏2026-03-02 16.22.33.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/截屏2026-03-02 16.22.33.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[ShieldedCode: Learning Robust Representations for Virtual Machine Protected Code]([https://openreview.net/pdf?id=9F9UFVcDkV])
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Mingqiao Mo**, Yunlong Tan,  Hao Zhang, Heng Zhang, Yangfan He
+- ShieldedCode introduces a protection-aware learning framework that models hierarchical dependencies and contrastive objectives to generate and analyze VMP-protected code.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/截屏2026-03-02 16.22.33.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[ShieldedCode: Learning Robust Representations for Virtual Machine Protected Code]([https://openreview.net/pdf?id=9F9UFVcDkV])
+
+**Mingqiao Mo**, Yunlong Tan,  Hao Zhang, Heng Zhang, Yangfan He
+- ShieldedCode introduces a protection-aware learning framework that models hierarchical dependencies and contrastive objectives to generate and analyze VMP-protected code.
+</div>
+</div>
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
