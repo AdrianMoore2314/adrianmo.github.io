@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am <strong>Mingqiao Mo</strong>, currently an intern at the <strong>University of the Chinese Academy of Sciences (UCAS)</strong>. I have also conducted research and academic internships at <strong>Cornell University</strong>, <strong>UCLA</strong>, and <strong>Tsinghua University</strong>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests lie in <strong>LLM reasoning</strong>, <strong>reliable AI systems</strong>, and <strong>efficient large-model deployment</strong>. My work focuses on improving the <strong>reasoning capability</strong>, <strong>reliability</strong>, and <strong>efficiency</strong> of large AI models, including structured reasoning, self-correcting mechanisms, and system-level optimization for large language and vision-language models.
+
+My long-term goal is to build <strong>reliable and scalable AI systems capable of robust reasoning<strong>.I am actively seeking <strong>Ph.D. opportunities<strong> in related areas.
 
 
 # 🔥 News
