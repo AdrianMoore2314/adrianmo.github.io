@@ -59,10 +59,10 @@ My long-term goal is to build <strong>reliable and scalable AI systems capable o
 
 # 💻 Internships
 <div class="exp-item">
-  <img class="exp-logo" src="/assets/img/ornl.png" alt="ORNL logo">
+  <img class="exp-logo" src="images/Cornell.jpg" alt="cornell logo">
   <div class="exp-body">
-    <div class="exp-title">Oak Ridge National Laboratory (ORNL) — Research Intern</div>
-    <div class="exp-meta">May 2025 – Present · USA</div>
+    <div class="exp-title">Cornell University — Research Intern</div>
+    <div class="exp-meta">May 2024 – 2025 · USA</div>
     <div class="exp-desc">
       Worked with Dr. Xiaobo Wang on large-scale climate models (e.g., ORBIT-2), focusing on efficient post-training and large-scale distributed training.
     </div>
@@ -70,7 +70,7 @@ My long-term goal is to build <strong>reliable and scalable AI systems capable o
 </div>
 
 <div class="exp-item">
-  <img class="exp-logo" src="/assets/img/uab.png" alt="UAB logo">
+  <img class="exp-logo" src="images/THU.webp" alt="THU logo">
   <div class="exp-body">
     <div class="exp-title">Tsinghua University (THU) — Embedded Software Engineer </div>
     <div class="exp-meta">Sep 2023 – 2024 · China</div>
