@@ -58,17 +58,17 @@ My long-term goal is to build <strong>reliable and scalable AI systems capable o
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-
-</div>
-<div class="exp-item">
-  <img class="exp-logo" src="images/Cornell.jpg" alt="cornell logo" style="width:90px; height:90px; object-fit:contain;">
-  <div class="exp-body">
-    <div class="exp-title">Cornell University — Research Intern </div>
+<div class="exp-item" style="display:flex; align-items:flex-start; gap:22px;">
+  <img class="exp-logo" src="images/Cornell.jpg" alt="cornell logo"
+       style="width:90px; height:90px; object-fit:contain; flex:0 0 90px; display:block;">
+  <div class="exp-body" style="flex:1;">
+    <div class="exp-title">Cornell University — Research Intern</div>
     <div class="exp-meta">Sep 2024 – 2025 · USA</div>
     <div class="exp-desc">
       Advised by Prof. Zhenhua Jin, working on efficient adaptation of large models.
     </div>
   </div>
+</div>
 <div class="exp-item" style="display:flex; align-items:flex-start; gap:22px;">
   <img class="exp-logo" src="images/THU.webp" alt="THU logo"
        style="width:90px; height:90px; object-fit:contain; flex:0 0 90px; display:block;">
