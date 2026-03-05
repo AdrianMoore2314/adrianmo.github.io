@@ -49,15 +49,12 @@ My long-term goal is to build <strong>reliable and scalable AI systems capable o
 - ShieldedCode introduces a protection-aware learning framework that models hierarchical dependencies and contrastive objectives to generate and analyze VMP-protected code.
 </div>
 </div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
+# 💻 Work Experiences
 <div class="exp-item" style="display:flex; align-items:flex-start; gap:22px; margin:22px 0 34px 0;">
   <img class="exp-logo" src="images/ucas.webp" alt="ucas logo"
        style="width:90px; height:90px; object-fit:contain; flex:0 0 90px; display:block;
@@ -110,3 +107,10 @@ My long-term goal is to build <strong>reliable and scalable AI systems capable o
   </div>
 </div>
 
+# 💼 Academic Services
+-Reviewer, IJCNN 2024, IJCNN 2025, IJCNN2026
+-Reviewer, AAAI 2026
+-Reviewer, CVPR 2026
+-Reviewer, ICME 2026
+-Reviewer, ICLR 2026 Workshop RSI 
+-Reviewer, UAI 2026
