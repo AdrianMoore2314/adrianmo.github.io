@@ -21,7 +21,7 @@ I am <strong>Mingqiao Mo</strong>, currently an intern at the <strong>University
 
 My research interests lie in <strong>LLM reasoning</strong>, <strong>reliable AI systems</strong>, and <strong>efficient large-model deployment</strong>. My work focuses on improving the <strong>reasoning capability</strong>, <strong>reliability</strong>, and <strong>efficiency</strong> of large AI models, including structured reasoning, self-correcting mechanisms, and system-level optimization for large language and vision-language models.
 
-My long-term goal is to build <strong>reliable and scalable AI systems capable of robust reasoning<strong>. I am actively seeking <strong>Ph.D. opportunities<strong> in related areas.
+My long-term goal is to build <strong>reliable and scalable AI systems capable of robust reasoning</strong>. I am actively seeking <strong>Ph.D. opportunities</strong> in related areas.
 
 
 # 🔥 News
