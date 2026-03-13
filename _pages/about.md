@@ -25,13 +25,16 @@ My long-term goal is to build <strong>reliable and scalable AI systems capable o
 
 
 # 🔥 News
+- *2026.03.13*: &nbsp;🎉🎉 Our paper was selected for an **Oral presentation** at **ICASSP 2026**.
+</div>
+</div>
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/截屏2026-03-02 16.22.33.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ShieldedCode: Learning Robust Representations for Virtual Machine Protected Code]([https://openreview.net/pdf?id=9F9UFVcDkV])
+[ShieldedCode: Learning Robust Representations for Virtual Machine Protected Code]([https://openreview.net/pdf?id=9F9UFVcDkV])<span style="display:inline-block; padding:2px 8px; margin-left:6px; font-size:0.78em; font-weight:700; color:#fff; background:#d32f2f; border-radius:6px; line-height:1.2;">Oral</span>
 
 **Mingqiao Mo**, Yunlong Tan,  Hao Zhang, Heng Zhang, Yangfan He
 - ShieldedCode introduces a protection-aware learning framework that models hierarchical dependencies and contrastive objectives to generate and analyze VMP-protected code.
@@ -59,10 +62,12 @@ Xi Xiao<sup>*</sup>, Zhuxuanzi Wang<sup>*</sup>, **Mingqiao Mo**<sup>*</sup>, Ch
 </div>
 
 # 🎖 Honors and Awards
-- *2024.01*: &nbsp;🎉🎉Provincial First Prize, Liaoning Undergraduate Innovation Challenge & Microsoft “Innovation Cup”
-- *2023.11*: &nbsp;🎉🎉 International Second Prize, International Youth Artificial Intelligence Competition
-- *2023.11*: &nbsp;💰💰 First-class Academic Scholarship.
-- *2023.08*: &nbsp;🎉🎉 National Second Prize, HuaShu Cup Mathematical Modeling Competition
+- *2024.01*: &nbsp;🏆 Provincial First Prize, Liaoning Undergraduate Innovation Challenge & Microsoft “Innovation Cup”
+- *2023.11*: &nbsp;🏆 International Second Prize, International Youth Artificial Intelligence Competition
+- *2023.11*: &nbsp;💰 First-class Academic Scholarship.
+- *2023.08*: &nbsp;🏆 National Second Prize, HuaShu Cup Mathematical Modeling Competition
+</div>
+</div>
 
 
 # 💻 Work Experiences
