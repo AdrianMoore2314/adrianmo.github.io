@@ -26,15 +26,13 @@ My long-term goal is to build <strong>reliable and scalable AI systems capable o
 
 # 🔥 News
 - *2026.03.13*: &nbsp;🎉🎉 Our paper was selected for an **Oral presentation** at **ICASSP 2026**.
-</div>
-</div>
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/截屏2026-03-02 16.22.33.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ShieldedCode: Learning Robust Representations for Virtual Machine Protected Code]([https://openreview.net/pdf?id=9F9UFVcDkV])<span style="display:inline-block; padding:2px 8px; margin-left:6px; font-size:0.78em; font-weight:700; color:#fff; background:#d32f2f; border-radius:6px; line-height:1.2;">Oral</span>
+[ShieldedCode: Learning Robust Representations for Virtual Machine Protected Code]([https://openreview.net/pdf?id=9F9UFVcDkV])<span style="display:inline-block; padding:2px 8px; margin-left:6px; font-size:0.78em; font-weight:700; color:#fff; background:#d32f2f; border-radius:6px; line-height:1.2;">Poster</span>
 
 **Mingqiao Mo**, Yunlong Tan,  Hao Zhang, Heng Zhang, Yangfan He
 - ShieldedCode introduces a protection-aware learning framework that models hierarchical dependencies and contrastive objectives to generate and analyze VMP-protected code.
@@ -44,7 +42,7 @@ My long-term goal is to build <strong>reliable and scalable AI systems capable o
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/截屏2026-03-02 16.32.40.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CTR-LoRA: Curvature-Aware and Trust-Region Guided Low-Rank Adaptation for Large Language Models]([https://arxiv.org/pdf/2510.15962])
+[CTR-LoRA: Curvature-Aware and Trust-Region Guided Low-Rank Adaptation for Large Language Models]([https://arxiv.org/pdf/2510.15962])<span style="display:inline-block; padding:2px 8px; margin-left:6px; font-size:0.78em; font-weight:700; color:#fff; background:#d32f2f; border-radius:6px; line-height:1.2;">Oral</span>
 
 Zhuxuanzi Wang<sup>*</sup>, **Mingqiao Mo**<sup>*</sup>, Xi Xiao, Chen Liu, Chenrui Ma, Yunbei Zhang, Xiao Wang, Smita Krishnaswamy, Tianyang Wang
 - CTR-LoRA uses curvature-aware rank allocation and a trust-region constraint to make LoRA fine-tuning more accurate and stable with less memory.
@@ -54,7 +52,7 @@ Zhuxuanzi Wang<sup>*</sup>, **Mingqiao Mo**<sup>*</sup>, Xi Xiao, Chen Liu, Chen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2026</div><img src='images/截屏2026-03-02 16.33.40.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Self-Supervised Visual Prompting for Cross-Domain Road Damage Detection]([https://openaccess.thecvf.com/content/WACV2026/papers/Xiao_Self-Supervised_Visual_Prompting_for_Cross-Domain_Road_Damage_Detection_WACV_2026_paper.pdf])
+[Self-Supervised Visual Prompting for Cross-Domain Road Damage Detection]([https://openaccess.thecvf.com/content/WACV2026/papers/Xiao_Self-Supervised_Visual_Prompting_for_Cross-Domain_Road_Damage_Detection_WACV_2026_paper.pdf])<span style="display:inline-block; padding:2px 8px; margin-left:6px; font-size:0.78em; font-weight:700; color:#fff; background:#d32f2f; border-radius:6px; line-height:1.2;">Poster</span>
 
 Xi Xiao<sup>*</sup>, Zhuxuanzi Wang<sup>*</sup>, **Mingqiao Mo**<sup>*</sup>, Chen Liu, Chenrui Ma, Yanshu Li, Smita Krishnaswamy, Xiao Wang, Tianyang Wang
 - PROBE is a self-supervised visual prompting method that distills defect-aware prompts from unlabeled target images and aligns prompt-conditioned features across domains for robust zero-shot road-damage detection.
