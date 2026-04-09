@@ -29,7 +29,7 @@ My long-term goal is to build <strong>reliable and scalable AI systems capable o
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026</div><img src='images/截屏2026-03-02 16.22.33.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026</div><img src='images/截屏2026-03-02 16.40.19.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Draft with What the Target Knows: Hierarchical Intermediate Conditioning for Lossless VLM Acceleration]([file:///Users/adrianmo/Downloads/ICME_2026_Paper_Title%20(3)-1-6.pdf])<span style="display:inline-block; padding:2px 8px; margin-left:6px; font-size:0.78em; font-weight:700; color:#fff; background:#d32f2f; border-radius:6px; line-height:1.2;">Oral</span>
